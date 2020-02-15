@@ -1,0 +1,125 @@
+﻿Crop_Name,fertilizer1,fertilizer2,fertilizer3,f1_qunatity,f2_qunatity,f3_qunatity,Min Crop water need,Max  Crop water needs
+other fibres,Based,Based,Based,0,0,0,0,0
+Orange,Nitrogen,Phosphorous,Potassium,80,20,10,550,750
+Pear,Nitrogen,Phosphorous,Potassium,13,13,13,700,900
+Coriander,Nitrogen,Phosphorous,Potassium,50,10,10,800,1000
+Groundnut,Nitrogen,Phosphorous,Potassium,20,40,40,350,450
+Barley,Nitrogen,Phosphorous,Potassium,7.5,3.5,6.5,450,650
+Pulses total,Pottasium,Calcium,Mg,11,15,16,450,750
+Garlic,Nitrogen,Phosphorous,Potassium,12.5,15,15,450,700
+Redish,Nitrogen,Phosphorous,Potassium,10,10,10,400,600
+Ragi,Nitrogen,Phosphorous,Potassium,40,20,20,350,600
+Bottle Gourd,Nitrogen,Phosphorous,Potassium,6,12,12,350,400
+Linseed,Nitrogen,Phosphorous,Potassium,20,10,10,350,450
+Bean,Nitrogen,Phosphorous,Potassium,5,10,10,350,600
+Pineapple,Nitrogen,Phosphorous,Potassium,31.1,18.4,30.8,700,1000
+Total foodgrain,Nitrogen,Phosphorous,Potassium,3.5,0.5,1,550,850
+Arhar/Tur,Nitrogen,Phosphorous,Potassium,25,40,30,350,620
+Tomato,Nitrogen,Phosphorous,Potassium,12,5,5,400,800
+Niger seed,Nitrogen,Phosphorous,Potassium,10,40,10,400,580
+Snak Guard,Nitrogen,Phosphorous,Potassium,6,12,12,650,750
+Other Kharif pulses,Nitrogen,FYM,Potassium,44,30,10,900,1100
+other misc. pulses,Nitrogen,FYM,Mg,30,44,13,500,700
+Perilla,Nitrogen,Phosphorous,Potassium,20,15,15,350,550
+Horse-gram,Nitrogen,Phosphorous,Potassium,12.5,25,12.5,800,1200
+Sweet potato,Nitrogen,Phosphorous,Potassium,8,24,24,400,600
+Bajra,Nitrogen,Phosphorous,Potassium,35,18,18,350,700
+Moong(Green Gram),Nitrogen,Phosphorous,Potassium,25,0,35,550,800
+Cardamom,Nitrogen,Phosphorous,Potassium,75,75,0.15,900,1600
+Coconut ,Nitrogen,Phosphorous,Potassium,20,10,10,1000,1500
+Paddy,Nitrogen,Phosphorous,Potassium,25,20,25,450,700
+other oilseeds,Nitrogen,Phosphorous,Potassium,20,10,15,1000,1200
+Moth,Nitrogen,Phosphorous,Potassium,20,10,20,550,800
+Other Citrus Fruit,Nitrogen,Phosphorous,Potassium,13,7,13,900,1200
+Jute & mesta,Nitrogen,Phosphorous,Potassium,40,20,20,400,600
+Cond-spcs other,Nitrogen,Phosphorous,Potassium,30,20,10,350,700
+Coffee,Nitrogen,Phosphorous,Potassium,5,1.5,3.3,550,800
+Yam,Nitrogen,Phosphorous,Potassium,8,49,19,900,1600
+Cowpea(Lobia),Nitrogen,Phosphorous,Potassium,15,0.5,0.5,1000,1500
+Dry ginger,Nitrogen,Phosphorous,Potassium,5,5,5,450,700
+Cauliflower,Nitrogen,Phosphorous,Potassium,5,10,10,1000,1200
+Cashewnut,Nitrogen,Phosphorous,Potassium,50,12.5,12.5,550,800
+Litchi,Nitrogen,Phosphorous,Potassium,50,25,25,900,1200
+Pump Kin,Nitrogen,Phosphorous,Potassium,25,25,25,650,750
+Papaya,Nitrogen,Phosphorous,Potassium,9,25,9,650,850
+Atcanut (Raw),Nitrogen,Phosphorous,Potassium,10,4,14,750,1000
+Maize,Nitrogen,Phosphorous,Potassium,135,62.5,50,500,800
+Other Vegetables,Nitrogen,Phosphorous,Potassium,10,20,10,350,750
+Onion,Nitrogen,Phosphorous,Potassium,50,25,25,350,550
+Peas & beans (Pulses),Nitrogen,Phosphorous,Potassium,5,10,10,300,500
+Black pepper,Nitrogen,Phosphorous,Potassium,50,10,10,600,900
+Bhindi,Nitrogen,Phosphorous,Potassium,115,112,75,600,800
+Sannhamp,Nitrogen,Phosphorous,Potassium,6,16,5,500,700
+Peas  (vegetable),Nitrogen,Phosphorous,Potassium,5,10,10,500,700
+Khesari,Gypsum,Phosphorous,DAP,100,40,100,400,600
+Safflower,Nitrogen,Phosphorous,Potassium,40,20,20,350,700
+Other Dry Fruit,Nitrogen,Phosphorous,Potassium,7,5,5,550,800
+Mesta,Nitrogen,Phosphorous,Potassium,40,20,20,900,1600
+Tobacco,Nitrogen,Phosphorous,Potassium,20,20,2.5,1000,1500
+Sapota,Nitrogen,Phosphorous,Potassium,100,75,100,450,700
+Gram,Nitrogen,Phosphorous,Potassium,10,30,20,1000,1200
+Pome Fruit,Nitrogen,Phosphorous,Potassium,12,5,15,550,800
+Peach,Nitrogen,Phosphorous,Potassium,10,10,10,900,1200
+Jobster,Nitrogen,Phosphorous,Potassium,12,24,12,650,950
+Mango,Nitrogen,Phosphorous,Potassium,5,10,10,1500,2000
+Ricebean (nagadal),Nitrogen,Phosphorous,Potassium,10,10,20,350,650
+Grapes,Nitrogen,zinc,Potassium,5,0.1,3,800,1200
+Banana,Nitrogen,Phosphorous,Potassium,8,10,8,1200,2200
+Potato,Nitrogen,Phosphorous,Potassium,8,24,24,500,700
+Ribed Guard,Nitrogen,Phosphorous,Potassium,25,25,12.5,550,700
+Jute,Nitrogen,Phosphorous,Potassium,75,12.5,12.5,650,750
+Cotton(lint),Nitrogen,Phosphorous,Potassium,20,10,10,700,1300
+Plums,Nitrogen,Phosphorous,Potassium,10,10,10,400,600
+Arecanut,Nitrogen,Phosphorous,Potassium,10,4,14,350,700
+Colocosia,Nitrogen,Phosphorous,Potassium,20,20,20,550,800
+Ber,Nitrogen,Phosphorous,Potassium,50,12.5,12.5,900,1600
+Tapioca,Nitrogen,Phosphorous,Potassium,100,50,100,1000,1500
+Korra,Nitrogen,Phosphorous,Potassium,40,30,0,450,700
+Turmeric,Nitrogen,Phosphorous,Potassium,20,5,14,1000,1200
+Ginger,Nitrogen,Phosphorous,Potassium,5,5,5,550,800
+Other  Rabi pulses,Nitrogen,Phosphorous,Suphur,20,40,20,900,1200
+Rice,Nitrogen,Phosphorous,Potassium,75,25,37.5,450,700
+Citrus Fruit,Nitrogen,Phosphorous,Potassium,13,7,13,500,1500
+Sesamum,Nitrogen,Phosphorous,Potassium,23,13,13,350,400
+Drum Stick,Nitrogen,Phosphorous,Potassium,100,50,50,350,450
+Lemon,Nitrogen,Phosphorous,Potassium,3,1,1,350,600
+Cashewnut Raw,Nitrogen,Phosphorous,Potassium,50,12.5,12.5,700,1000
+Cucumber,Nitrogen,Phosphorous,Potassium,2,3,6,550,850
+Sunflower,Nitrogen,Phosphorous,Potassium,60,45,45,600,1000
+Apple,Nitrogen,Phosphorous,Potassium,10,10,10,400,800
+Pome Granet,Nitrogen,Phosphorous,Potassium,10,10,10,400,580
+Water Melon,Nitrogen,Phosphorous,Potassium,33,0,0,650,750
+Samai,Nitrogen,Phosphorous,Potassium,40,30,20,900,1100
+Kapas,Nitrogen,Phosphorous,Potassium,100,60,80,500,700
+Jowar,Nitrogen,Phosphorous,Potassium,20,15,12,350,550
+Bitter Gourd,Nitrogen,Phosphorous,Potassium,50,40,30,800,1200
+Oilseeds total,Nitrogen,Phosphorous,Potassium,20,20,20,400,600
+Other Fresh Fruits,NItrogen,Phosphorous,Potassium,30,30,30,1000,1200
+Rajmash Kholar,Calcium,Phosphorous,Iron,26,41,5.8,550,800
+Jack Fruit,Nitrogen,Phosphorous,Potassium,75,60,60,900,1200
+Arcanut (Processed),Nitrogen,Phosphorous,Potassium,10,4,14,500,600
+Urad,Nitrogen,Phosphorous,Potassium,20,40,40,800,1000
+Rapeseed &Mustard,Nitrogen,Phosphorous,Potassium,40,20,80,350,450
+Lab-Lab,Nitrogen,Phosphorous,Potassium,25,50,0,450,650
+Brinjal,Nitrogen,Phosphorous,Potassium,15,10,5,380,750
+Other Cereals & Millets,Nitrogen,Phosphorous,Potassium,40,20,20,400,700
+Soyabean,Nitrogen,Phosphorous,Potassium,16,20,4,450,650
+Carrot,Nitrogen,Phosphorous,Potassium,5,15,15,450,600
+Tea,Nitrogen,Phosphorous,Potassium,90,25,70,350,400
+Guar seed,Nitrogen,Phosphorous,Potassium,5,20,40,350,450
+Rubber,Nitrogen,Phosphorous,Potassium,75,65,150,350,600
+Castor seed,Nitrogen,Phosphorous,Potassium,20,15,20,700,1000
+Ash Gourd,Nitrogen,Phosphorous,Potassium,35,25,25,550,850
+Beet Root,Nitrogen,Phosphorous,Potassium,10,10,10,350,620
+Blackgram,Nitrogen,Phosphorous,Potassium,20,40,40,650,950
+Sugarcane,Nitrogen,Phosphorous,Potassium,5,5,10,1500,2500
+Varagu,Nitrogen,Phosphorous,Potassium,44,22,1,900,1500
+Cashewnut Processed,Nitrogen,Phosphorous,Potassium,50,12.5,12.5,650,850
+Cabbage,Nitrogen,Phosphorous,Potassium,90,90,90,350,550
+Masoor,Nitrogen,Phosphorous,Potassium,20,60,20,550,750
+Small millets,Nitrogen,Phosphorous,Potassium,40,30,20,500,700
+Dry chillies,Nitrogen,Phosphorous,Potassium,5,10,10,2000,2500
+Beans & Mutter(Vegetable),Nitrogen,Phosphorous,Potassium,45,30,50,350,600
+Lentil,Nitrogen,Phosphorous,sulphur,20,40,20,500,700
+Wheat,Nitrogen,Phosphorous,Potassium,12.5,50,12.5,500,800
+Turnip,Nitrogen,Phosphorous,Potassium,16,16,8,350,550
